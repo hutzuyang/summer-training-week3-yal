@@ -1,4 +1,4 @@
-# summer-training-week3-plot
+# summer-training-week3-yal
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/orientation-week3-plot)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/orientation-week3-plot)
